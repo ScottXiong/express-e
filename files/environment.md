@@ -1,7 +1,7 @@
 ### environment 
 ```
-cnpm i express -g
-express-generator
+cnpm i express express-generator -g
+
 ```
 ## This generator can also be further configured with the following command line flags.
 ```
